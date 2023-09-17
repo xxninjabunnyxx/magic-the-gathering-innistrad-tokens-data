@@ -1,0 +1,18 @@
+---
+object: set
+id: a91850e1-a8b4-49dd-a5dc-2a73ea4f9e40
+code: tisd
+name: Innistrad Tokens
+uri: https://api.scryfall.com/sets/a91850e1-a8b4-49dd-a5dc-2a73ea4f9e40
+scryfall_uri: https://scryfall.com/sets/tisd
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atisd&unique=prints
+released_at: '2011-09-30'
+set_type: token
+card_count: 13
+parent_set_code: isd
+digital: false
+nonfoil_only: true
+foil_only: false
+block_code: isd
+block: Innistrad
+icon_svg_uri: https://svgs.scryfall.io/sets/isd.svg?1694404800

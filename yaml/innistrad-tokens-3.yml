@@ -1,0 +1,118 @@
+---
+object: card
+id: e2020f53-d012-4d26-be13-87ed0f196c53
+oracle_id: d33fc3ad-79f7-41e1-a873-97c9f9a960b0
+multiverse_ids: []
+tcgplayer_id: 78448
+name: Homunculus
+lang: en
+released_at: '2011-09-30'
+uri: https://api.scryfall.com/cards/e2020f53-d012-4d26-be13-87ed0f196c53
+scryfall_uri: https://scryfall.com/card/tisd/3/homunculus?utm_source=api
+layout: token
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/2/e2020f53-d012-4d26-be13-87ed0f196c53.jpg?1562640096
+  normal: https://cards.scryfall.io/normal/front/e/2/e2020f53-d012-4d26-be13-87ed0f196c53.jpg?1562640096
+  large: https://cards.scryfall.io/large/front/e/2/e2020f53-d012-4d26-be13-87ed0f196c53.jpg?1562640096
+  png: https://cards.scryfall.io/png/front/e/2/e2020f53-d012-4d26-be13-87ed0f196c53.png?1562640096
+  art_crop: https://cards.scryfall.io/art_crop/front/e/2/e2020f53-d012-4d26-be13-87ed0f196c53.jpg?1562640096
+  border_crop: https://cards.scryfall.io/border_crop/front/e/2/e2020f53-d012-4d26-be13-87ed0f196c53.jpg?1562640096
+mana_cost: ''
+cmc: 0.0
+type_line: Token Creature — Homunculus
+oracle_text: ''
+power: '2'
+toughness: '2'
+colors:
+- U
+color_identity:
+- U
+keywords: []
+all_parts:
+- object: related_card
+  id: 7e0fcc53-cd0b-4b4c-b6de-5d301232106a
+  component: combo_piece
+  name: Stitcher's Apprentice
+  type_line: Creature — Homunculus
+  uri: https://api.scryfall.com/cards/7e0fcc53-cd0b-4b4c-b6de-5d301232106a
+- object: related_card
+  id: e2020f53-d012-4d26-be13-87ed0f196c53
+  component: token
+  name: Homunculus
+  type_line: Token Creature — Homunculus
+  uri: https://api.scryfall.com/cards/e2020f53-d012-4d26-be13-87ed0f196c53
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: a91850e1-a8b4-49dd-a5dc-2a73ea4f9e40
+set: tisd
+set_name: Innistrad Tokens
+set_type: token
+set_uri: https://api.scryfall.com/sets/a91850e1-a8b4-49dd-a5dc-2a73ea4f9e40
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atisd&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tisd?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e2020f53-d012-4d26-be13-87ed0f196c53/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad33fc3ad-79f7-41e1-a873-97c9f9a960b0&unique=prints
+collector_number: '3'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Johann Bodin
+artist_ids:
+- d92e2dd9-9ef6-43f6-81f8-df87f9066983
+illustration_id: 2c9471e6-a8f7-4940-a284-d360b0504132
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+promo_types:
+- setpromo
+prices:
+  usd: '0.10'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Homunculus&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Homunculus&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Homunculus
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/78448?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Homunculus&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Homunculus&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
